@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\sblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\sblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\oblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\oblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\zblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\zblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\lblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\lblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\jblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\jblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\iblocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\iblocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\tblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\tblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\tetris.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\tetris.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|c:\\users\\user\\documents\\github\\tetris-project\\tetris\\tetris\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2741-F09E-4DB7-A259-F960A8572403}|Tetris\\Tetris.csproj|solutionrelative:tetris\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tetris.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeDocumentMoniker": "Tetris\\Tetris.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeToolTip": "Tetris\\Tetris.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T22:56:58.334Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tetris",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeDocumentMoniker": "Tetris\\Tetris.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeToolTip": "Tetris\\Tetris.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T01:29:01.225Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OBlock.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\OBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\OBlock.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\OBlock.cs",
+              "RelativeToolTip": "Tetris\\OBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:53:18.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZBlock.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\ZBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\ZBlock.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\ZBlock.cs",
+              "RelativeToolTip": "Tetris\\ZBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:52:42.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LBlock.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\LBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\LBlock.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\LBlock.cs",
+              "RelativeToolTip": "Tetris\\LBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:52:05.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JBlock.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\JBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\JBlock.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\JBlock.cs",
+              "RelativeToolTip": "Tetris\\JBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:51:37.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBlocks.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\IBlocks.cs",
+              "RelativeDocumentMoniker": "Tetris\\IBlocks.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\IBlocks.cs",
+              "RelativeToolTip": "Tetris\\IBlocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:50:57.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Blocks.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\Blocks.cs",
+              "RelativeDocumentMoniker": "Tetris\\Blocks.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\Blocks.cs",
+              "RelativeToolTip": "Tetris\\Blocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:50:26.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\Position.cs",
+              "RelativeDocumentMoniker": "Tetris\\Position.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\Position.cs",
+              "RelativeToolTip": "Tetris\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:49:38.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-29T22:45:56.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TBlock.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\TBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\TBlock.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\TBlock.cs",
+              "RelativeToolTip": "Tetris\\TBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:53:39.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\GameGrid.cs",
+              "RelativeDocumentMoniker": "Tetris\\GameGrid.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\GameGrid.cs",
+              "RelativeToolTip": "Tetris\\GameGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:48:55.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:45:55.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SBlock.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\SBlock.cs",
+              "RelativeDocumentMoniker": "Tetris\\SBlock.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\SBlock.cs",
+              "RelativeToolTip": "Tetris\\SBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:54:09.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockQueue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\BlockQueue.cs",
+              "RelativeDocumentMoniker": "Tetris\\BlockQueue.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\BlockQueue.cs",
+              "RelativeToolTip": "Tetris\\BlockQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:55:14.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\GameState.cs",
+              "RelativeDocumentMoniker": "Tetris\\GameState.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Tetris-Project\\Tetris\\Tetris\\GameState.cs",
+              "RelativeToolTip": "Tetris\\GameState.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAA6wJoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T22:55:47.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
