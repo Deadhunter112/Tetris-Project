@@ -1,4 +1,5 @@
-﻿
+﻿using System.Collections.Generic;
+
 namespace Tetris
 {
     public abstract class Block
@@ -6,7 +7,6 @@ namespace Tetris
         protected abstract Position[][] Tiles { get; }
         protected abstract Position StartOffset { get; }
         public abstract int Id { get; }
-
 
 
         private int rotationState;

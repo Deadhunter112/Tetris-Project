@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 
 namespace Tetris
 {
@@ -24,7 +24,7 @@ namespace Tetris
         {
             return block[random.Next(block.Length)];
         }
-        public Block GetANdUpdate()
+        public Block GetAndUpdate()
         {
             Block block = NextBlock;
             do
